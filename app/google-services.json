@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167726874737",
+    "project_id": "spotifyexample-c4a72",
+    "storage_bucket": "spotifyexample-c4a72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167726874737:android:a6fa3faf621741eba81bd0",
+        "android_client_info": {
+          "package_name": "com.kamesh.spotifyexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167726874737-bc4pqp2ua2sluk818qiplm45qc8dqg0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkfFn0JVglI42YePAN_-Y21EJvThL_c5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167726874737-bc4pqp2ua2sluk818qiplm45qc8dqg0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
